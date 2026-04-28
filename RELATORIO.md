@@ -6,7 +6,7 @@
 
 **Disciplina:** Sistemas Operacionais  
 **Tema:** Implementação do Algoritmo do Banqueiro (Banker's Algorithm)  
-**Autor:** [Seu Nome]  
+**Autor:** [Cauã Moreira Martins e Pedro Nunes]  
 **Data:** Abril de 2026  
 **Linguagem:** C# (.NET 8)  
 
@@ -399,8 +399,7 @@ A experiência prática com threads, locks e algoritmos de prevenção de deadlo
 
 ```bash
 # Clone o repositório
-git clone https://github.com/[seu-usuario]/BankerAlgorithm.git
-
+git clone https://github.com/cauamor-dev/BankerAlgorithm.git
 # Entre no diretório
 cd BankerAlgorithm
 
@@ -426,7 +425,7 @@ BankerAlgorithm/
 
 ### Anexo C: Link do Repositório
 
-**GitHub:** https://github.com/[seu-usuario]/BankerAlgorithm
+**GitHub:** https://github.com/cauamor-dev/BankerAlgorithm.git
 
 ---
 

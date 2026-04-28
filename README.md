@@ -125,7 +125,7 @@ O algoritmo verifica se existe uma sequência de execução que permite que todo
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**
+**[Cauã Moreira Martins e Pedro Nunes]**
 
 Trabalho Prático - Disciplina de Sistemas Operacionais
 
