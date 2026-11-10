@@ -26,7 +26,7 @@ O sistema simula um ambiente multithread onde múltiplos clientes (processos) co
 ## 🛠️ Tecnologias
 
 - **Linguagem**: C# 12
-- **Framework**: .NET 8
+- **Framework**: .NET 10
 - **Conceitos**: Threads, Mutex, Lock, Concorrência
 
 ## 📁 Estrutura do Projeto
@@ -44,7 +44,7 @@ BankerAlgorithm/
 
 ### Pré-requisitos
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) ou superior
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) ou superior
 
 ### Passos
 
