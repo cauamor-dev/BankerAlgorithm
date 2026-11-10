@@ -44,7 +44,7 @@ BankerAlgorithm/
 
 ### Pré-requisitos
 
-- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) ou superior
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) ou superior
 
 ### Passos
 
